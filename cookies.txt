@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.jaicobooks.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+www.jaicobooks.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_8d43d6a6d62e4dc38d7a0f383d73e628	t_932cdbb380368b72e9df28301be3f3%7C%7C1691091892%7C%7C1691088292%7C%7Cd62c635ab4178f39ec296532140255cd
+www.jaicobooks.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	b7ac4a1d3350ddc34035500ddea20aee
+
